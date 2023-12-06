@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Práctica 1: Git y GitHub
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -229,3 +230,7 @@ git branch -d <nombre_apellidos_v3>
 git push origin --delete <nombre_apellidos_v3>
 ~~~
 
+=======
+# HLC_P1
+HLC_P1
+>>>>>>> a833695... Initial commit
