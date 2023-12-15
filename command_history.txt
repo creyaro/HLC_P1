@@ -1,2 +1,2 @@
-sudo git clone https://github.com/creyaro/HLC_CI.git
+TEST sudo git clone https://github.com/creyaro/HLC_CI.git
 git checkout -b Javier_Romero_Cuevas_v1
