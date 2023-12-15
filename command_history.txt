@@ -1,3 +1,2 @@
 git clone git@github.com:creyaro/HLC_P1.gitaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 git checkout -b Abraham_Carrasco_Molina
-"Text to revert"
