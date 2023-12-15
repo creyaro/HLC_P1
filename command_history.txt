@@ -1,3 +1,7 @@
 git clone git@github.com:creyaro/HLC_P1.git
 git checkout -b FranciscoJavier_SantanaMontes_v1
+<<<<<<< HEAD
 Conflicto
+=======
+COnflicto v2
+>>>>>>> parent of 407a60e... Solve conflicts
