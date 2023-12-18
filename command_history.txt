@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Update history from command line
 
+=======
+Hola que tal
+>>>>>>> e4f6ccfa8d61f12bdd8954a64aa75168caf4e2d7
