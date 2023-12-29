@@ -1,1 +1,2 @@
 primer conflicto desde local
+segundo conflicto desde remoto
