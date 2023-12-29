@@ -1,2 +1,6 @@
 primer conflicto desde local
+<<<<<<< HEAD
 segundo conflicto desde local
+=======
+segundo conflicto desde remoto
+>>>>>>> 9da3f8febd6e48277298da7fb54fd02ed0afb51c
